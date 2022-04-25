@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@reach-sh/stdlib": "^0.1.10-rc.0",
+    "npm": "^8.7.0"
+  }
+}
